@@ -59,6 +59,7 @@ header>div>ul>li>a:hover{
     border-radius: 40px;
     font-weight: 400;
     font-size: 0.8rem;
+    border-style: none;
 }
 #header-right>button:hover{
     background-color: #dcdcdc;
