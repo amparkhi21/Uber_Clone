@@ -310,6 +310,7 @@ nav>ul>li>a:hover{
 }
 .p-under{
     width: 100%;
+    font-size: 12px;
 }
 .plan-benefits{
     display: flex;
