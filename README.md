@@ -2,7 +2,7 @@ The Uber Clone is a front-end web project that replicates the design and layout 
 
 This project demonstrates my ability to convert a real-world website interface into a working static webpage using pure HTML and CSS.
 
-🚀 Features
+🚀 Features:-
 Responsive landing page design
 Navigation bar with menu options
 Hero section with call-to-action
